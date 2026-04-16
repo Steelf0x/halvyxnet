@@ -2,11 +2,11 @@
 
 ## Reporting a Vulnerability
 
-Vulnerabilities discovered in the Halvyx.net website may be reported to website maintainers at security@halvyx.net, and may also be communicated to the website owner directly at ctrlaltspire@halvyx.net.
+Vulnerabilities discovered in the Halvyx.net website may be reported to website maintainers at priv_sec@halvyx.net, and may also be communicated to the website owner directly at ctrlaltspire@halvyx.net.
 
 Once a vulnerability is reported, it will be followed up on by a Halvyx.net maintainer within 24-72 hours where possible. Vulnerability reports will have a guaranteed response within 5 business days. Updates will be provided once Halvyx.net maintainers begin investigating the issue, and a final changelog will be published upon resolution no later than 30 calendar days from the original report date.
 
-If a vulnerability report is accepted, a Halvyx.net maintainer may follow up via e-mail from security@halvyx.net. Please ensure this e-mail address is whitelisted in your preferred e-mail application to avoid being lost in a spam or junk folder.
+If a vulnerability report is accepted, a Halvyx.net maintainer may follow up via e-mail from priv_sec@halvyx.net. Please ensure this e-mail address is whitelisted in your preferred e-mail application to avoid being lost in a spam or junk folder.
 
 If a vulnerability report is denied, fear not! Denied vulnerability reports may still be examined within 30-90 calendar days of the original report date. Please be aware that Halvyx.net is primarily maintained by one person, and they may not be able to reach everything.
 
@@ -40,7 +40,7 @@ We may update this Privacy Policy from time to time, and we will post the update
 
 __Contact Us__
 
-If you have any questions or concerns about this Privacy Policy, please contact us at privacy@halvyx.net.
+If you have any questions or concerns about this Privacy Policy, please contact us at priv_sec@halvyx.net.
 
 __Effective Date__
 
