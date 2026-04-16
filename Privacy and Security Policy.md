@@ -1,6 +1,6 @@
 # Security Policy for halvyx.net
 
-## Reporting a Vulnerability
+__Reporting a Vulnerability__
 
 Vulnerabilities discovered in the Halvyx.net website may be reported to website maintainers at priv_sec@halvyx.net, and may also be communicated to the website owner directly at ctrlaltspire@halvyx.net.
 
@@ -12,36 +12,53 @@ If a vulnerability report is denied, fear not! Denied vulnerability reports may 
 
 
 # Privacy Policy for halvyx.net
-This Privacy Policy governs the collection, use, and sharing of personal information and/or general user data by the Halvyx.net website. By using this website, you agree to the terms of this Privacy Policy.
 
-__Information We Collect__
+__Who we are__
 
-We collect information that you provide to us through your use of the website, such as your IP address, e-mail address, and other information directly provided to us. We may also collect usage data, such as the frequency and duration of your use of the website.
+Halvyx.net is the personal website of Aspen Winters, and is maintained by her and volunteer assistants as needed.
 
-__How We Use Your Information__
+Our website address is: https://halvyx.net/.
 
-We use your information to operate, secure, and improve Halvyx website services, including to provide support and respond to your requests. We may also use your information to develop new features or services, to conduct research and analytics, and to comply with legal and/or ethical obligations.
+__Comments__
 
-__Sharing Your Information__
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-We do not sell or share your personal information with third parties. However, we may disclose your information in response to legal process or a request from a law enforcement agency or regulatory authority only if presented with appropriate documentation.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-__Data Retention__
+__Media__
 
-We retain your information for as long as necessary to provide Halvyx website services or as required by law. We will delete your information upon your request or when it is no longer needed.
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-__Data Security__
+__Cookies__
 
-We take reasonable measures to protect your information from unauthorized access, alteration, or destruction. However, no security measure is perfect, and we cannot guarantee the security of your information.
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-__Changes to this Policy__
+If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-We may update this Privacy Policy from time to time, and we will post the updated policy on our website and in the Halvyx.net GitHub repository. Your continued use of any Halvyx website services after we make changes to this policy indicates your acceptance of the revised policy.
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select "Remember Me", your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-__Contact Us__
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-If you have any questions or concerns about this Privacy Policy, please contact us at priv_sec@halvyx.net.
+__Embedded content from other websites__
 
-__Effective Date__
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-This Privacy Policy is effective as of April 16th, 2026.
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+
+__Who we share your data with__
+
+If you request a password reset, your IP address will be included in the reset email.
+
+__How long we retain your data__
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+__What rights you have over your data__
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+__Where your data is sent__
+
+Visitor comments may be checked through an automated spam detection service.
